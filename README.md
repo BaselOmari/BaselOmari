@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Bassel
 
-I'm a senior Computer Engineering student at the **University of Waterloo**, passionate about machine learning, systems design, and solving tough problems with elegant code. I've worked across startups, research labs, and global companies — each time learning something new and leveling up.
+Hey! I love building smart systems and solving real-world problems with code. Whether it's with research labs, startups or global companies, I'm always chasing meaningful challenges and learning something new along the way.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baselomari/"><img src="https://img.shields.io/badge/LinkedIn-Bassel%20Al%20Omari-blue?logo=linkedin" /></a>
@@ -10,13 +10,13 @@ I'm a senior Computer Engineering student at the **University of Waterloo**, pas
 ### 🧠 About Me
 
 - 🎓 Computer Engineering @ uWaterloo
-- ⚡ Currently exploring Reinforcement Learning at the Hyperscale -- Checkout [MA-Craftax](https://github.com/BaselOmari/MA-Craftax)!
-- 🤝 Always happy to chat about ideas, projects, or opportunities!
+- ⚡ Currently exploring Reinforcement Learning at the Hyperscale – Checkout [MA-Craftax](https://github.com/BaselOmari/MA-Craftax)!
+- 🤝 Reach out if you have an interesting challenge to tackle
 
 
 ### 💼 Past Experiences
-- 🛻 MLE @ Waabi – Perception for Autonomous Vehicles  
+- 🛻 MLE @ Waabi – Autonomous Vehicles  
 - 🌐 MLE @ Huawei – Federated Learning  
 - 🤖 MLE @ Autodesk+MIT – Robotics
-- ☁️ SWE @ Autodesk – DevOps
+- ☁️ SWE @ Autodesk – Infra
 - 🧠 President @ uWaterloo Data Science Club
