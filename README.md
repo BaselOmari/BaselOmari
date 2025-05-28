@@ -8,6 +8,7 @@ I love building smart systems and solving real-world problems with code. Whether
 </p>
 
 ### 🧠 About Me
+<img width="45%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🎓 Computer Engineering @ uWaterloo
 - ⚡ Currently exploring Reinforcement Learning at the Hyperscale – Checkout [MA-Craftax](https://github.com/BaselOmari/MA-Craftax)!
