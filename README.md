@@ -1,6 +1,6 @@
 ### 👋 Hey there! I'm Bassel
 
-Hey! I love building smart systems and solving real-world problems with code. Whether it's with research labs, startups or global companies, I'm always chasing meaningful challenges and learning something new along the way.
+I love building smart systems and solving real-world problems with code. Whether it's with research labs, startups or global companies, I'm always chasing meaningful challenges and learning something new along the way.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/baselomari/"><img src="https://img.shields.io/badge/LinkedIn-Bassel%20Al%20Omari-blue?logo=linkedin" /></a>
