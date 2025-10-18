@@ -16,8 +16,8 @@ I love building smart systems and solving real-world problems with code. Whether
 
 
 ### 💼 Past Experiences
-- 🛻 MLE @ Waabi – Autonomous Vehicles  
+- 🛻 RS @ Waabi – Autonomous Vehicles  
 - 🌐 MLE @ Huawei – Federated Learning  
-- 🤖 MLE @ Autodesk+MIT – Robotics
+- 🤖 RS @ Autodesk+MIT – Robotics
 - ☁️ SWE @ Autodesk – Infra
 - 🧠 President @ uWaterloo Data Science Club
